@@ -7,11 +7,7 @@ public class Oi {
 		System.out.println("jfj");
 		System.out.println("jfj");
 		System.out.println("jfj");
-		//Renam é um cara muito Legalzinho
-				//Renam é um cara muito Legalzinho
-						//Renam é um cara muito Legalzinho
-								//Renam é um cara muito Legalzinho
-		//fopiksfbnlkds� n
+		
 
 	}
 
