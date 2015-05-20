@@ -5,6 +5,12 @@ public class Oi {
 		System.out.println("jfj");
 		//kjxncmlbnçxklcjnbçkjlzxcvbz
 		//kjxncmlbnçxklcjnbçkjlzxcvbz
+		//kjxncmlbnçxklcjnbçkjlzxcvbz
+				//kjxncmlbnçxklcjnbçkjlzxcvbz
+		//kjxncmlbnçxklcjnbçkjlzxcvbz
+				//kjxncmlbnçxklcjnbçkjlzxcvbz
+		//kjxncmlbnçxklcjnbçkjlzxcvbz
+				//kjxncmlbnçxklcjnbçkjlzxcvbz
 		
 
 	}
