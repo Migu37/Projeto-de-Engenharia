@@ -24,7 +24,7 @@ public class TelaInicial extends JFrame {
 
 	private JPanel contentPane;
 	/**
-	 * @author Miguel Wolfgrann
+	 * @author Miguel Wolfgrann, Narciso Possatti, Renan Vago Merlo, Hermilayane.
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
