@@ -5,9 +5,8 @@ public class Oi {
 	import javax.swing.JPanel;
 	import javax.swing.border.EmptyBorder;
 	import javax.swing.plaf.nimbus.NimbusLookAndFeel;
-	import java.awt.Font;
-	
-	import java.awt.Color;
+	import java.awt.Font;	
+	import java.awt.Color;	
 	import javax.swing.JLabel;
 	import javax.swing.UIManager;
 	import javax.swing.JButton;
