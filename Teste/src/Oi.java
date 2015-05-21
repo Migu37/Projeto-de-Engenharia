@@ -16,11 +16,10 @@ public class Oi {
 	import java.awt.event.ActionEvent;
 	import java.text.ParseException;
 	import javax.swing.ImageIcon;
-	2
+
 
 	public static void main(String[] args) {
-		System.out.println("jfj");
-		/
+		
 		
 
 	}
